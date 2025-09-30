@@ -4,6 +4,8 @@ description: Dissimilar Material such as a Composite Structure
 file: /courses/2-082-ship-structural-analysis-design-13-122-spring-2003/55c49fab4c1d7aa35e209b7d2aabbad2_notes_19_composites_s.pdf
 file_size: 265692
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

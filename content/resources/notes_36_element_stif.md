@@ -4,6 +4,8 @@ description: General Method for Deriving an Element Stiffness Matrix
 file: /courses/2-082-ship-structural-analysis-design-13-122-spring-2003/7f00c6a09e194fa58839126a9ed14c53_notes_36_element_stif.pdf
 file_size: 463913
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

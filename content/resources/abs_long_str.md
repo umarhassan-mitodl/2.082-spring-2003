@@ -4,6 +4,8 @@ description: ''
 file: /courses/2-082-ship-structural-analysis-design-13-122-spring-2003/5dbd5ed7d774e2191dca896c383dcd89_abs_long_str.pdf
 file_size: 420674
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

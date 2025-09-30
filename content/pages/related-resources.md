@@ -2,6 +2,8 @@
 content_type: page
 description: 'Links page: ABS Rules for Ship Construction and Design; ABS Rules Steel
   2003; ASD vs. LRFD (Structural Engineering)'
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -12,6 +14,6 @@ video_metadata:
   youtube_id: null
 ---
 
-{{% resource_link "d6bc53f0-8e1b-43ff-8075-32d3898ddc39" "ABS Rules for Ship Construction and Design" %}}
+[ABS Rules for Ship Construction and Design](https://ww2.eagle.org/en/rules-and-resources/rules-and-guides.html)
 
-{{% resource_link "a78696ca-089d-4a00-a101-92f384314af2" "ASD vs. LRFD (Structural Engineering)" %}}
+[ASD vs. LRFD (Structural Engineering)](http://www.bgstructuralengineering.com/BGDesign/BGDesign05.htm)
