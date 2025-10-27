@@ -5,8 +5,6 @@ description: Shear stress due to Shear load (pure bending) multi-cell closed cro
 file: /courses/2-082-ship-structural-analysis-design-13-122-spring-2003/d7ad0562a5e6684082339313403b40fa_notes_18_shear_multic.pdf
 file_size: 307784
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

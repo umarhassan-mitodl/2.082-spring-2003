@@ -33,7 +33,6 @@
     "website": "2-082-ship-structural-analysis-design-13-122-spring-2003"
   },
   "course_title": "Ship Structural Analysis & Design (13.122)",
-  "hide_download": true,
   "course_description": "This course is intended for first year graduate students and advanced undergraduates with an interest in design of ships or offshore structures. It requires a sufficient background in structural mechanics. Computer applications are utilized, with emphasis on the theory underlying the analysis. Hydrostatic loading, shear load and bending moment, and resulting primary hull primary stresses will be developed. Topics will include; ship structural design concepts, effect of superstructures and dissimilar materials on primary strength, transverse shear stresses in the hull girder, and torsional strength among others. Failure mechanisms and design limit states will be developed for plate bending, column and panel buckling, panel ultimate strength, and plastic analysis. Matrix stiffness, grillage, and finite element analysis will be introduced. Design of a ship structure will be analyzed by \"hand\" with desktop computer tools and a final design project using current applications for structural design of a section will be accomplished.\n\nThis course was originally offered in Course 13 (Department of Ocean Engineering) as 13.122. In 2005, ocean engineering subjects became part of Course 2 (Department of Mechanical Engineering), and this course was renumbered 2.082.\n",
   "department_numbers": [
     "2"
@@ -44,7 +43,6 @@
     "content": "dfdb7dce-e9ff-35d1-4b55-8032a3bbb081",
     "website": "2-082-ship-structural-analysis-design-13-122-spring-2003"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes"
   ],

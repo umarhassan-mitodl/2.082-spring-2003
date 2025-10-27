@@ -4,8 +4,6 @@ description: Characteristics of Thin Walled Sections and Bending without a Twist
 file: /courses/2-082-ship-structural-analysis-design-13-122-spring-2003/efb6e93e77888f3847ee382b9aad250e_notes_12_bending_wo_t.pdf
 file_size: 865550
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

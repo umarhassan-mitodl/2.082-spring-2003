@@ -4,8 +4,6 @@ description: Intro to Matrix Analysis
 file: /courses/2-082-ship-structural-analysis-design-13-122-spring-2003/80375baa7163ef406d4a64531c6c4ac5_notes_32_intro_matrix.pdf
 file_size: 515808
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

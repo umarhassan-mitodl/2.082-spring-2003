@@ -4,8 +4,6 @@ description: Yield Criteria
 file: /courses/2-082-ship-structural-analysis-design-13-122-spring-2003/10e19b6e41bcaf93aa8732694c0fa537_notes_21_yield_criter.pdf
 file_size: 199371
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
